@@ -18,7 +18,6 @@ git@2.17.1 or higher
 
 
 ### `Screen shot`
- ![alternative text](0.png "img")
  ![alternative text](1.png "img")
  ![alternative text](2.png "img")
  ![alternative text](3.png "img")
